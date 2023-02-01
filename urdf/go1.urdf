@@ -46,7 +46,7 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="../meshes/trunk.stl" scale="1 1 1"/>
+        <mesh filename="../meshes/trunk.obj" scale="1 1 1"/>
       </geometry>
       <material name="silver"/>
     </visual>
@@ -99,7 +99,7 @@
     <visual>
       <origin rpy="3.14159265359 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="../meshes/hip.stl" scale="1 1 1"/>
+        <mesh filename="../meshes/hip.obj" scale="1 1 1"/>
       </geometry>
       <material name="silver"/>
     </visual>
@@ -141,7 +141,7 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="../meshes/thigh_mirror.stl" scale="1 1 1"/>
+        <mesh filename="../meshes/thigh_mirror.obj" scale="1 1 1"/>
       </geometry>
       <material name="silver"/>
     </visual>
@@ -169,7 +169,7 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="../meshes/calf.stl" scale="1 1 1"/>
+        <mesh filename="../meshes/calf.obj" scale="1 1 1"/>
       </geometry>
       <material name="black"/>
     </visual>
@@ -222,7 +222,7 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="../meshes/hip.stl" scale="1 1 1"/>
+        <mesh filename="../meshes/hip.obj" scale="1 1 1"/>
       </geometry>
       <material name="silver"/>
     </visual>
@@ -264,7 +264,7 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="../meshes/thigh.stl" scale="1 1 1"/>
+        <mesh filename="../meshes/thigh.obj" scale="1 1 1"/>
       </geometry>
       <material name="silver"/>
     </visual>
@@ -292,7 +292,7 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="../meshes/calf.stl" scale="1 1 1"/>
+        <mesh filename="../meshes/calf.obj" scale="1 1 1"/>
       </geometry>
       <material name="silver"/>
     </visual>
@@ -345,7 +345,7 @@
     <visual>
       <origin rpy="3.14159265359 3.14159265359 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="../meshes/hip.stl" scale="1 1 1"/>
+        <mesh filename="../meshes/hip.obj" scale="1 1 1"/>
       </geometry>
       <material name="silver"/>
     </visual>
@@ -387,7 +387,7 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="../meshes/thigh_mirror.stl" scale="1 1 1"/>
+        <mesh filename="../meshes/thigh_mirror.obj" scale="1 1 1"/>
       </geometry>
       <material name="silver"/>
     </visual>
@@ -415,7 +415,7 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="../meshes/calf.stl" scale="1 1 1"/>
+        <mesh filename="../meshes/calf.obj" scale="1 1 1"/>
       </geometry>
       <material name="black"/>
     </visual>
@@ -468,7 +468,7 @@
     <visual>
       <origin rpy="0 3.14159265359 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="../meshes/hip.stl" scale="1 1 1"/>
+        <mesh filename="../meshes/hip.obj" scale="1 1 1"/>
       </geometry>
       <material name="silver"/>
     </visual>
@@ -510,7 +510,7 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="../meshes/thigh.stl" scale="1 1 1"/>
+        <mesh filename="../meshes/thigh.obj" scale="1 1 1"/>
       </geometry>
       <material name="silver"/>
     </visual>
@@ -538,7 +538,7 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="../meshes/calf.stl" scale="1 1 1"/>
+        <mesh filename="../meshes/calf.obj" scale="1 1 1"/>
       </geometry>
       <material name="black"/>
     </visual>
